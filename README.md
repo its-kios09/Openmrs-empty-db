@@ -1,0 +1,2 @@
+# Openmrs-empty-db
+Database
